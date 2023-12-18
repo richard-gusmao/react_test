@@ -1,5 +1,8 @@
 import React from 'react';
 
+
+import {CTA, Brand, Navbar, Feature, Article} from "./components";
+
 const App = () => {
     return (
         <div>
