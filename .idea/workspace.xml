@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdb70c2f-7346-4427-b79d-05b66c872f64" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/ai.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/ai.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/blog01.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blog01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/possibility.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/possibility.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/screenshots/Screenshot 2023-12-24 154954.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/screenshots/Screenshot 2023-12-24 155003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/screenshots/Screenshot 2023-12-24 155013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/screenshots/Screenshot 2023-12-24 155019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/screenshots/Screenshot 2023-12-24 155026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/screenshots/Screenshot 2023-12-24 155031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/screenshots/react-test-live.vercel.app_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/features/Features.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/features/Features.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/whatGTP3/WhatGTP3.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/whatGTP3/WhatGTP3.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="fdb70c2f-7346-4427-b79d-05b66c872f64" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +92,7 @@
       <workItem from="1703032227385" duration="32000" />
       <workItem from="1703137109679" duration="17178000" />
       <workItem from="1703369024394" duration="32000" />
-      <workItem from="1709367681155" duration="1301000" />
+      <workItem from="1709367681155" duration="1438000" />
     </task>
     <servers />
   </component>
