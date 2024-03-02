@@ -5,20 +5,20 @@ import {Feature} from "../../components/";
 const featuresData =
     [
         {
-            title: 'Improving end distrusts instantly',
-            text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+            title: 'Instant Feedback and Support',
+            text: ' Chatbots can offer instant feedback on assignments, quizzes, and exercises, helping students identify areas for improvement and reinforcing learning objectives in real-time.',
         },
         {
-            title: 'Become the tended active',
-            text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+            title: 'Supplemental Learning Resources',
+            text: 'GPT-3-powered chatbots can serve as virtual tutors or study partners, providing additional explanations, examples, and resources to complement traditional classroom instruction',
         },
         {
-            title: 'Message or am nothing',
-            text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+            title: 'Scalability and Cost-Effectiveness',
+            text: 'Chatbots powered by GPT-3 offer scalability and cost-effectiveness, allowing educational institutions to provide personalized support and assistance to a large number of students without significantly increasing their resource allocation',
         },
         {
-            title: 'Really boy law county',
-            text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+            title: 'Empowering Human Creativity',
+            text: 'Ultimately, the true impact of GPT-3 lies in its ability to augment human creativity and productivity',
         },
     ];
 const Features = () => {
